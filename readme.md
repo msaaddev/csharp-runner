@@ -10,7 +10,7 @@ You will need dotnet framework to run your C# code. You can download & install i
 
 ## 👨🏻‍💻 STEP #2
 
-Now open your `.bashrc/.zshrc` file and copy-paste the following code inside there.
+Now open your `.bashrc/.zshrc` file. This file will be located in your root directory. Now copy-paste the following code inside there.
 
 ```sh
 # run your c# code inside your terminal
